@@ -11,6 +11,7 @@
 - Javascript
 - Typescript
 - Node JS
+- PHP
 - React/React Native
 - Python
 - HTML
