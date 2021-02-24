@@ -1,4 +1,4 @@
-# Bem-vindo!
+#  Seja bem-vindo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messiviski&layout=compact&exclude_repo=Analise-de-Dados-ENEM,PesqOperacionalTrab,Projeto-2-Datascience,desafio-moovery&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Messiviski&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +20,10 @@
 
 ### Me segue no Linkedin :upside_down_face:
 
-[Linkedin](https://www.linkedin.com/in/messiasolimpioo/)
+<a href="https://www.linkedin.com/in/messiasolimpioo/">
+  <img src="linkedin.svg"/>
+  Linkedin
+</a>
 
 ---
 
