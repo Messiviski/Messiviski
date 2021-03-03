@@ -26,9 +26,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messiviski&layout=compact&exclude_repo=Analise-de-Dados-ENEM,PesqOperacionalTrab,Projeto-2-Datascience,desafio-moovery&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Messiviski&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### Me segue no Linkedin :upside_down_face:
 <a href="https://www.linkedin.com/in/messiasolimpioo/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
+
+---
 
 #### _Porque Deus amou ao mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna. João 3:16_ :open_book:
