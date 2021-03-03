@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center">José Messias Marinho Olimpio</h1>
   <h3 align="center">Sou um estudante de Data Science, mas que gosta de se aventurar no mundo web :grin:<h3>
+  <br/>
 </p>
   
  ### Tecnologias que uso :computer:
